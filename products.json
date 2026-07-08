@@ -100,23 +100,13 @@
     "stock": "In Stock"
   },
   "P021": {
-
     "name":"Redmi 15C",
-
     "price":55990,
-
     "oldPrice":59990,
-
     "discount":true,
-
     "discountPercent":7,
-
     "stock":true,
-
-
     "description":"Redmi 15C යනු Xiaomi budget smartphone එකක් වන අතර smooth performance සහ long battery life එකක් ලබාදෙයි.",
-
-
     "features":[
       "6.9-inch IPS LCD Display (120Hz)",
       "MediaTek Dimensity 6300 Processor",
@@ -126,25 +116,14 @@
       "33W Fast Charging",
       "Android 15 HyperOS 2"
     ],
-
-
     "delivery":{
-
       "charge":"Rs.400",
-
       "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-
       "time":"1 - 3 Working Days",
-
       "payment":"Cash on Delivery (COD) / Bank Transfer"
-
     },
-
-
     "shop":"Kandy Mobile"
-
-  }
-}
+  },
   "P022": {
     "name": "Infinix Smart 20",
     "price": "",
