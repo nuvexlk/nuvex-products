@@ -1,0 +1,13 @@
+{
+ "P001":{
+   "name":"ZTE Blade A36e",
+   "price":"24990",
+   "stock":"In Stock"
+ },
+
+ "P002":{
+   "name":"Samsung Galaxy A17 5G",
+   "price":"54990",
+   "stock":"In Stock"
+ }
+}
