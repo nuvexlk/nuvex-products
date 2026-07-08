@@ -1,13 +1,157 @@
 {
- "P001":{
-   "name":"ZTE Blade A36e",
-   "price":"2499",
-   "stock":"In Stock"
- },
-
- "P002":{
-   "name":"Samsung Galaxy A17 5G",
-   "price":"54990",
-   "stock":"In Stock"
- }
+  "P001": {
+    "name": "Creative Table Lamp",
+    "price": "2150",
+    "stock": "In Stock"
+  },
+  "P002": {
+    "name": "LED Digital Display Fan N15",
+    "price": "1150",
+    "stock": "In Stock"
+  },
+  "P003": {
+    "name": "Midnight Charm Rose Bouquet",
+    "price": "1200",
+    "stock": "In Stock"
+  },
+  "P004": {
+    "name": "Royal Blue Rose Bouquet",
+    "price": "1300",
+    "stock": "In Stock"
+  },
+  "P005": {
+    "name": "Crimson Elegance Rose Bouquet",
+    "price": "1000",
+    "stock": "In Stock"
+  },
+  "P006": {
+    "name": "Pink Bliss Rose Bouquet",
+    "price": "1800",
+    "stock": "In Stock"
+  },
+  "P007": {
+    "name": "Sweet Harmony Rose Bouquet",
+    "price": "1800",
+    "stock": "In Stock"
+  },
+  "P008": {
+    "name": "Rosy Dream Bouquet",
+    "price": "1800",
+    "stock": "In Stock"
+  },
+  "P009": {
+    "name": "Ocean Breeze Rose Bouquet",
+    "price": "1300",
+    "stock": "In Stock"
+  },
+  "P010": {
+    "name": "Samsung Galaxy M17 5G",
+    "price": "119000",
+    "stock": "In Stock"
+  },
+  "P011": {
+    "name": "Nubia V80 Plus",
+    "price": "45990",
+    "stock": "In Stock"
+  },
+  "P012": {
+    "name": "Nubia V80 Design",
+    "price": "59990",
+    "stock": "In Stock"
+  },
+  "P013": {
+    "name": "MaxAiPuls",
+    "price": "44640",
+    "stock": "In Stock"
+  },
+  "P014": {
+    "name": "Samsung Galaxy A17 5G",
+    "price": "123990",
+    "stock": "In Stock"
+  },
+  "P015": {
+    "name": "Samsung Galaxy A07",
+    "price": "66490",
+    "stock": "In Stock"
+  },
+  "P016": {
+    "name": "Samsung Galaxy F07",
+    "price": "45490",
+    "stock": "In Stock"
+  },
+  "P017": {
+    "name": "Tab 90 Blackview",
+    "price": "",
+    "stock": "In Stock"
+  },
+  "P018": {
+    "name": "Infinix HOT 60i",
+    "price": "59999",
+    "stock": "In Stock"
+  },
+  "P019": {
+    "name": "Honor X6c",
+    "price": "59990",
+    "stock": "In Stock"
+  },
+  "P020": {
+    "name": "Honor X5c Plus",
+    "price": "46999",
+    "stock": "In Stock"
+  },
+  "P021": {
+    "name": "Redmi 15C",
+    "price": "55990",
+    "stock": "In Stock"
+  },
+  "P022": {
+    "name": "Infinix Smart 20",
+    "price": "",
+    "stock": "In Stock"
+  },
+  "P023": {
+    "name": "Redmi Note 15",
+    "price": "91990",
+    "stock": "In Stock"
+  },
+  "P024": {
+    "name": "Redmi 15",
+    "price": "72990",
+    "stock": "In Stock"
+  },
+  "P025": {
+    "name": "Blade A36e",
+    "price": "30990",
+    "stock": "In Stock"
+  },
+  "P026": {
+    "name": "ZTE Blade A56",
+    "price": "37990",
+    "stock": "In Stock"
+  },
+  "P027": {
+    "name": "Nokia 105",
+    "price": "8500",
+    "stock": "In Stock"
+  },
+  "P028": {
+    "name": "Greentel A3",
+    "price": "4950",
+    "stock": "In Stock"
+  },
+  "P029": {
+    "name": "IPRO A1 Mini",
+    "price": "4280",
+    "stock": "In Stock"
+  },
+  "P030": {
+    "name": "Softlogic MAX 111",
+    "price": "5280",
+    "stock": "In Stock"
+  },
+  "P031": {
+    "name": "HMD 105 Dual SIM",
+    "price": "7650",
+    "stock": "In Stock"
+  }
 }
