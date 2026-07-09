@@ -4,7 +4,7 @@
     "price": "2150",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -61,7 +61,7 @@
     "price": "1300",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -80,7 +80,7 @@
     "price": "1000",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -99,7 +99,7 @@
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -118,7 +118,7 @@
     "price": "1800",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -137,7 +137,7 @@
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -156,7 +156,7 @@
     "price": "1300",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -175,7 +175,7 @@
     "price": "119000",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -194,7 +194,7 @@
     "price": "45990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -213,7 +213,7 @@
     "price": "59990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -232,7 +232,7 @@
     "price": "44640",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -251,7 +251,7 @@
     "price": "123990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -270,7 +270,7 @@
     "price": "66490",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -289,7 +289,7 @@
     "price": "45490",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -308,7 +308,7 @@
     "price": "",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -327,7 +327,7 @@
     "price": "59999",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -346,7 +346,7 @@
     "price": "59990",
      "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -365,7 +365,7 @@
     "price": "46999",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -409,7 +409,7 @@
     "price": "",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -428,7 +428,7 @@
     "price": "91990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -447,7 +447,7 @@
     "price": "72990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -466,7 +466,7 @@
     "price": "30990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -485,7 +485,7 @@
     "price": "37990",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -504,7 +504,7 @@
     "price": "8500",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -523,7 +523,7 @@
     "price": "4950",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -542,7 +542,7 @@
     "price": "4280",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -561,7 +561,7 @@
     "price": "5280",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
@@ -580,7 +580,7 @@
     "price": "7650",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": 0,
     "stock":true,
     "description":"",
     "features":[
