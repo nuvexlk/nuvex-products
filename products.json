@@ -23,7 +23,7 @@
     "price": "1150",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": null,
     "stock":true,
     "description":"",
     "features":[
@@ -42,7 +42,7 @@
     "price": "1200",
     "oldPrice":59990,
     "discount":false,
-    "discountPercent":,
+    "discountPercent": null,
     "stock":true,
     "description":"",
     "features":[
