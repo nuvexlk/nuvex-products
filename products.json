@@ -98,7 +98,7 @@
     "name": "Pink Bliss Rose Bouquet",
     "price": "1800",
      "oldPrice":59990,
-    "discount":true,
+    "discount":false,
     "discountPercent": 0,
     "stock":true,
     "description":"A charming arrangement of soft pink and vibrant pink roses, beautifully wrapped to create a sweet and elegant gift for loved ones.",
