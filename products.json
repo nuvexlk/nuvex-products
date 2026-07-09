@@ -2,102 +2,382 @@
   "P001": {
     "name": "Creative Table Lamp",
     "price": "2150",
-    "stock": true
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P002": {
     "name": "LED Digital Display Fan N15",
     "price": "1150",
-    "stock": false
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P003": {
     "name": "Midnight Charm Rose Bouquet",
     "price": "1200",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P004": {
     "name": "Royal Blue Rose Bouquet",
     "price": "1300",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P005": {
     "name": "Crimson Elegance Rose Bouquet",
     "price": "1000",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P006": {
     "name": "Pink Bliss Rose Bouquet",
     "price": "1800",
-    "stock": "In Stock"
+     "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P007": {
     "name": "Sweet Harmony Rose Bouquet",
     "price": "1800",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P008": {
     "name": "Rosy Dream Bouquet",
     "price": "1800",
-    "stock": "In Stock"
+     "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P009": {
     "name": "Ocean Breeze Rose Bouquet",
     "price": "1300",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P010": {
     "name": "Samsung Galaxy M17 5G",
     "price": "119000",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P011": {
     "name": "Nubia V80 Plus",
     "price": "45990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P012": {
     "name": "Nubia V80 Design",
     "price": "59990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P013": {
     "name": "MaxAiPuls",
     "price": "44640",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P014": {
     "name": "Samsung Galaxy A17 5G",
     "price": "123990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P015": {
     "name": "Samsung Galaxy A07",
     "price": "66490",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P016": {
     "name": "Samsung Galaxy F07",
     "price": "45490",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P017": {
     "name": "Tab 90 Blackview",
     "price": "",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P018": {
     "name": "Infinix HOT 60i",
     "price": "59999",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P019": {
     "name": "Honor X6c",
     "price": "59990",
-    "stock": "In Stock"
+     "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P020": {
     "name": "Honor X5c Plus",
     "price": "46999",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P021": {
     "name":"Redmi 15C",
@@ -127,51 +407,191 @@
   "P022": {
     "name": "Infinix Smart 20",
     "price": "",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P023": {
     "name": "Redmi Note 15",
     "price": "91990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P024": {
     "name": "Redmi 15",
     "price": "72990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P025": {
     "name": "Blade A36e",
     "price": "30990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P026": {
     "name": "ZTE Blade A56",
     "price": "37990",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P027": {
     "name": "Nokia 105",
     "price": "8500",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P028": {
     "name": "Greentel A3",
     "price": "4950",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P029": {
     "name": "IPRO A1 Mini",
     "price": "4280",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P030": {
     "name": "Softlogic MAX 111",
     "price": "5280",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   },
   "P031": {
     "name": "HMD 105 Dual SIM",
     "price": "7650",
-    "stock": "In Stock"
+    "oldPrice":59990,
+    "discount":false,
+    "discountPercent":,
+    "stock":true,
+    "description":"",
+    "features":[
+      
+    ],
+    "delivery":{
+      "charge":"Rs.400",
+      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
+      "time":"1 - 3 Working Days",
+      "payment":"Cash on Delivery (COD) / Bank Transfer"
+    },
+    "shop":"Kandy Mobile"
   }
 }
