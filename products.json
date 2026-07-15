@@ -1,6 +1,9 @@
 {
   "P001": {
     "name": "Creative Table Lamp",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2150",
     "oldPrice":59990,
     "discount":false,
@@ -16,7 +19,8 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+    "url": "",
+    "thumbnail": ""
   },
   "P002": {
     "name": "LED Digital Display Fan N15",
@@ -35,7 +39,8 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P003": {
     "name": "Midnight Charm Rose Bouquet",
@@ -78,7 +83,8 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P005": {
     "name": "Crimson Elegance Rose Bouquet",
@@ -98,11 +104,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P006": {
     "name": "Pink Bliss Rose Bouquet",
     "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
@@ -118,11 +127,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P007": {
     "name": "Sweet Harmony Rose Bouquet",
     "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "1800",
     "oldPrice":59990,
     "discount":false,
@@ -138,11 +150,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P008": {
     "name": "Rosy Dream Bouquet",
     "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
@@ -158,11 +173,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P009": {
     "name": "Ocean Breeze Rose Bouquet",
     "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "1300",
     "oldPrice":59990,
     "discount":false,
@@ -178,434 +196,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
-  },
-  "P010": {
-    "name": "Samsung Galaxy M17 5G",
-    "price": "119000",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P011": {
-    "name": "Nubia V80 Plus",
-    "price": "45990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P012": {
-    "name": "Nubia V80 Design",
-    "price": "59990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P013": {
-    "name": "MaxAiPuls",
-    "price": "44640",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P014": {
-    "name": "Samsung Galaxy A17 5G",
-    "price": "123990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P015": {
-    "name": "Samsung Galaxy A07",
-    "price": "66490",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P016": {
-    "name": "Samsung Galaxy F07",
-    "price": "45490",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P017": {
-    "name": "Tab 90 Blackview",
-    "price": "",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P018": {
-    "name": "Infinix HOT 60i",
-    "price": "59999",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P019": {
-    "name": "Honor X6c",
-    "price": "59990",
-     "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P020": {
-    "name": "Honor X5c Plus",
-    "price": "46999",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P021": {
-    "name":"Redmi 15C",
-    "price":58990,
-    "oldPrice":59990,
-    "discount":true,
-    "discountPercent":7,
-    "stock":true,
-    "description":"Redmi 15C යනු Xiaomi budget smartphone එකක් වන අතර smooth performance සහ long battery life එකක් ලබාදෙයි.",
-    "features":[
-      "6.9-inch IPS LCD Display (120Hz)",
-      "MediaTek Dimensity 6300 Processor",
-      "5G Dual SIM Support",
-      "50MP Dual Camera",
-      "6000mAh Battery",
-      "33W Fast Charging",
-      "Android 15 HyperOS 2"
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P022": {
-    "name": "Infinix Smart 20",
-    "price": "",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P023": {
-    "name": "Redmi Note 15",
-    "price": "91990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P024": {
-    "name": "Redmi 15",
-    "price": "72990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P025": {
-    "name": "Blade A36e",
-    "price": "30990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P026": {
-    "name": "ZTE Blade A56",
-    "price": "37990",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P027": {
-    "name": "Nokia 105",
-    "price": "8500",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P028": {
-    "name": "Greentel A3",
-    "price": "4950",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P029": {
-    "name": "IPRO A1 Mini",
-    "price": "4280",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P030": {
-    "name": "Softlogic MAX 111",
-    "price": "5280",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
-  },
-  "P031": {
-    "name": "HMD 105 Dual SIM",
-    "price": "7650",
-    "oldPrice":59990,
-    "discount":false,
-    "discountPercent": 0,
-    "stock":true,
-    "description":"",
-    "features":[
-      
-    ],
-    "delivery":{
-      "charge":"Rs.400",
-      "areas":"Hatharaliyadda, Galagedara, Rambukkana",
-      "time":"1 - 3 Working Days",
-      "payment":"Cash on Delivery (COD) / Bank Transfer"
-    },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P032": {
     "name": "Black & White Premium Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2500",
     "oldPrice":59990,
     "discount":false,
@@ -621,10 +219,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P033": {
     "name": "Pink Lily & Mixed Felt Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "4500",
     "oldPrice":59990,
     "discount":false,
@@ -640,10 +242,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P034": {
     "name": "Sunflower & Butterfly Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2000",
     "oldPrice":59990,
     "discount":false,
@@ -659,10 +265,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P035": {
     "name": "Red & White Floral Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2000",
     "oldPrice":59990,
     "discount":false,
@@ -678,10 +288,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P036": {
     "name": "Grey-Blue & White Dotted Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2000",
     "oldPrice":59990,
     "discount":false,
@@ -697,10 +311,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P037": {
     "name": "Bright Red Pearl-Embellished Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "800",
     "oldPrice":59990,
     "discount":false,
@@ -716,10 +334,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P038": {
     "name": "Royal Blue & White with Feathers Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "800",
     "oldPrice":59990,
     "discount":false,
@@ -735,10 +357,14 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   },
   "P039": {
     "name": "Purple & White Tulip Styled Bouquet",
+    "seller": "nuvex",
+    "sellerName": "Nuvex Store",
+    "category": "Home Decor",
     "price": "2500",
     "oldPrice":59990,
     "discount":false,
@@ -754,6 +380,7 @@
       "time":"1 - 3 Working Days",
       "payment":"Cash on Delivery (COD) / Bank Transfer"
     },
-    "shop":"Kandy Mobile"
+     "url": "",
+    "thumbnail": ""
   }
 }
