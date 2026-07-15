@@ -62,6 +62,7 @@
   },
   "P004": {
     "name": "Royal Blue Rose Bouquet",
+    "seller": "nuvex",
     "price": "1300",
     "oldPrice":59990,
     "discount":false,
@@ -81,6 +82,7 @@
   },
   "P005": {
     "name": "Crimson Elegance Rose Bouquet",
+    "seller": "nuvex",
     "price": "1000",
     "oldPrice":59990,
     "discount":false,
@@ -100,6 +102,7 @@
   },
   "P006": {
     "name": "Pink Bliss Rose Bouquet",
+    "seller": "nuvex",
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
@@ -119,6 +122,7 @@
   },
   "P007": {
     "name": "Sweet Harmony Rose Bouquet",
+    "seller": "nuvex",
     "price": "1800",
     "oldPrice":59990,
     "discount":false,
@@ -138,6 +142,7 @@
   },
   "P008": {
     "name": "Rosy Dream Bouquet",
+    "seller": "nuvex",
     "price": "1800",
      "oldPrice":59990,
     "discount":false,
@@ -157,6 +162,7 @@
   },
   "P009": {
     "name": "Ocean Breeze Rose Bouquet",
+    "seller": "nuvex",
     "price": "1300",
     "oldPrice":59990,
     "discount":false,
