@@ -374,16 +374,18 @@
     "features":[
       
     ],
-    "colors":[
-"Black",
-"White"
-],
+      "colors":[
+      "🟣 Purple",
+      "⚪ White",
+      "🌸 Pink"
+   ],
 
-"sizes":[
-"40",
-"41",
-"42"
-],
+   "sizes":[
+      "S",
+      "M",
+      "L",
+      "XL"
+   ],
     "delivery":{
       "charge":"Rs.400",
       "areas":"Hatharaliyadda, Galagedara, Rambukkana",
